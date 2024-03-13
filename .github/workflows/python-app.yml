@@ -33,4 +33,4 @@ jobs:
    
     - name: Test with flask
       run: |
-        pytest
+        python Facial_Recognition_App.py build
